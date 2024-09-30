@@ -131,7 +131,6 @@ Error generating stack: `+o.message+`
   margin: 2rem auto;
   text-align: center;
   margin-bottom 100px,100px,100px,100px;
-  line-hieght:100px
 `,jv=xe.img`
   border-radius: 50%;
   width: 150px;
